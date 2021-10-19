@@ -1,0 +1,17 @@
+
+
+{
+  "name": "@thss-inc/util-xhr",
+  "displayName": "XHR Utility",
+  "version": "0.9.0",
+  "description": "Thin wrapper around JavaScript's Fetch API, to make API calls",
+  "author": "anthros-niccolo",
+  "license": "UNLINCENSED",
+  "repository": "https://github.com/thss-inc/js-util-xhr.git",
+  "main": "dist/index.js",
+  "module": "",
+  "source": "dist/index.js",
+  "engines": {
+    "node": ">=16"
+  }
+}
